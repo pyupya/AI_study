@@ -14,7 +14,7 @@
 
 ### Question Answering
 
-### [Reinforcement Learning](# deepmind MuZero) 
+### [Reinforcement Learning](#deepmind-muzero) 
 
 
 google deepmind MuZero
