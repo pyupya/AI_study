@@ -1,8 +1,14 @@
-# What I did
+# My paper
+
+# My Project
 
 
 # paper_study
-
+Image Classification
+Robot Intelligence
+Language Model
+Graph embedding
+Question Answering
 
 
 google deepmind MuZero
