@@ -22,7 +22,10 @@ Multi-task Question Answering](https://manuscriptlink-society-file.s3-ap-northea
   - [TransUNet](https://arxiv.org/pdf/2102.04306v1.pdf)
   - [Deep Q Learning Driven CT Pancreas Segmentation
 with Geometry-Aware U-Net](https://arxiv.org/pdf/1904.09120.pdf)
-  - [pancreas segmentation]()
+  - pancreas segmentation
+    - U-net을 기반으로 모델을 수정하여 segmentation을 수행하는 모델을 구현
+    - faster-rcnn을 수행할 때, 다양한 크기의 anchor box를 사용하는 점을 착안하여 다양한 크기의 U-net을 구성
+    - 이를 통해 얻은 feature들을 concatenation하여 segmentation에 이용
 
 ### Robot Intelligence
 - [swi-prolog](https://www.swi-prolog.org/)
