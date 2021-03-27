@@ -10,11 +10,11 @@ Multi-task Question Answering](https://manuscriptlink-society-file.s3-ap-northea
 
 
 
-# My Project
-
-
 # paper_study
 ### Image Classification
+\제목\내용\설명\
+\---------\---\---\
+\faster-RCNN\ㅇ\ㅇ\
 
 ### Robot Intelligence
 
@@ -23,8 +23,6 @@ Multi-task Question Answering](https://manuscriptlink-society-file.s3-ap-northea
 ### Graph embedding
 
 ### Question Answering
-
-### [Reinforcement Learning](#google-deepmind-muzero) 
 
 
 
