@@ -12,9 +12,9 @@ Multi-task Question Answering](https://manuscriptlink-society-file.s3-ap-northea
 
 # paper_study
 ### Image Classification
-\제목\내용\설명\
-\---------\---\---\
-\faster-RCNN\ㅇ\ㅇ\
+|제목|내용|설명|
+|---------|---|---|
+|faster-RCNN|ㅇ|ㅇ|
 
 ### Robot Intelligence
 
@@ -28,13 +28,3 @@ Multi-task Question Answering](https://manuscriptlink-society-file.s3-ap-northea
 
 
 
-
-
-
-
-
-
-google deepmind MuZero
-- 발전된 형태의 알파고
--- 기존에 게임의 룰을 직접 숙지시켜주던 것에 반해, 직접 게임의 룰을 익힘
-https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules
