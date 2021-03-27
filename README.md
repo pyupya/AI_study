@@ -62,5 +62,9 @@ with Geometry-Aware U-Net](https://arxiv.org/pdf/1904.09120.pdf)
 |[DFGN](https://www.aclweb.org/anthology/P19-1617.pdf)|그래프 신경망 논문|그래프를 구성하고, 학습하여 질문에 대한 응답을 수행.(지식형태: corpus)|
 
 
+### [Image&Language Model](https://github.com/pyupya/pre-trained-vl-model)
+- 이미지와 자연어를 입력으로 질문에 대한 응답을 수행하거나, 이미지 상에서 segmentation을 수행하기 위한 선행 논문 및 모델들 모음
+
+
 
 
