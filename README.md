@@ -4,7 +4,7 @@
 - [Open Domain Question Answering using Knowledge Graph](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002625038)-2020JOK
   - [Open Domain Question Answering Based on Knowledge Graph Reasoning](http://www.kiise.or.kr/academy/board/academyNewsView.fa)-KSC2019 우수논문상
 
--[Hierarchical Graph Reasoning for Multi-hop,
+- [Hierarchical Graph Reasoning for Multi-hop,
 Multi-task Question Answering](https://manuscriptlink-society-file.s3-ap-northeast-1.amazonaws.com/kips/conference/2020fall/presentation/KIPS_C2020B0261.pdf)-2020KIPS
 
 
